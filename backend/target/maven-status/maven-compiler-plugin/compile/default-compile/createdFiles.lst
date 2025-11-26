@@ -1,2 +1,16 @@
-ec\edu\arquitecturac4\backend\BackendApplication.class
+ec\edu\arquitecturac4\backend\CorsConfig$1.class
+ec\edu\arquitecturac4\backend\controller\ContribuyenteController.class
+ec\edu\arquitecturac4\backend\service\SRIService.class
+ec\edu\arquitecturac4\backend\client\ANTClient.class
 ec\edu\arquitecturac4\backend\PingController.class
+ec\edu\arquitecturac4\backend\model\LicenciaInfo.class
+ec\edu\arquitecturac4\backend\config\RestClientConfig.class
+ec\edu\arquitecturac4\backend\client\SRIClienteRuc.class
+ec\edu\arquitecturac4\backend\client\SRIClienteVehiculo.class
+ec\edu\arquitecturac4\backend\controller\LicenciaController.class
+ec\edu\arquitecturac4\backend\cache\CacheLicencias.class
+ec\edu\arquitecturac4\backend\BackendApplication.class
+ec\edu\arquitecturac4\backend\controller\VehiculoController.class
+ec\edu\arquitecturac4\backend\CorsConfig.class
+ec\edu\arquitecturac4\backend\service\LicenciaService.class
+ec\edu\arquitecturac4\backend\service\VehiculoService.class

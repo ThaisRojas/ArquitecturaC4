@@ -1,3 +1,15 @@
 C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\BackendApplication.java
+C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\cache\CacheLicencias.java
+C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\client\ANTClient.java
+C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\client\SRIClienteRuc.java
+C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\client\SRIClienteVehiculo.java
+C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\config\RestClientConfig.java
+C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\controller\ContribuyenteController.java
+C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\controller\LicenciaController.java
+C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\controller\VehiculoController.java
 C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\CorsConfig.java
+C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\model\LicenciaInfo.java
 C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\PingController.java
+C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\service\LicenciaService.java
+C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\service\SRIService.java
+C:\Users\thisr\Desktop\ArquitecturaC4\backend\src\main\java\ec\edu\arquitecturac4\backend\service\VehiculoService.java
